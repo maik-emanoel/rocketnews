@@ -21,9 +21,9 @@ body {
   grid-template-areas: 
   'col-a col-b';
 
-  height: 100%;
+  min-height: 100vh;
 
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .col-a {
@@ -151,10 +151,10 @@ main .form button:hover {
 main .link {
   display: flex;
   flex-direction: row;
+  align-items: center;
 
   position: relative;
-
-  align-items: center;
+  margin-bottom: 10rem;
 }
 
 main .link a {
@@ -207,6 +207,10 @@ main .link svg {
 }
 
 @media (max-width: 840px) {
+  .col-a {
+    height: fit-content;
+  }
+
   main .form .flex {
     width: 90%;
   }
