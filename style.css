@@ -207,6 +207,10 @@ main .link svg {
 }
 
 @media (max-width: 840px) {
+  body {
+    -webkit-tap-highlight-color: transparent;
+  }
+
   .col-a {
     height: fit-content;
   }
