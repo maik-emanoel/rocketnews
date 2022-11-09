@@ -2,6 +2,8 @@
 
 ![preview](./.github/preview.png)
 
+[Clique aqui para acessar](https://maik-emanoel.github.io/rocketnews)
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
