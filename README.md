@@ -22,8 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto simula uma página para captação de leads ou newsletters. <br>
 
-Obs: Projeto construído a partir da área de desafios do Programa Discover da [Rocketseat](https://rocketseat.com.br). <br>
-Após construir o projeto proposto, adicionei mais funcionalidades, como por exemplo:
+Obs: Projeto construído a partir da área de desafios do Programa Discover da [Rocketseat](https://rocketseat.com.br). Após construir o projeto proposto, adicionei mais funcionalidades, como por exemplo:
 
 - Layout responsivo
 - Função alert() ao clicar no botão de enviar email
